@@ -9,6 +9,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '17.41_S18 Lecture 9B: Buzan and Little, Chapter 5'
-type: OCWFile
 uid: 2c1354f8-6ab8-d47e-75dd-c0810cb0be5f
 ---

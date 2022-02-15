@@ -9,6 +9,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '17.41_S18 Lecture 9A: Buzan and Little, Chapter 4'
-type: OCWFile
 uid: 8dede69d-c470-4f5f-85cf-01c56808d05b
 ---

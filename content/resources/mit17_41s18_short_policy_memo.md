@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '17.41_S18 Assignments: Short Policy Memo'
-type: OCWFile
 uid: 4d24034b-fdbc-79ca-1063-40fd0691fd64
 ---
