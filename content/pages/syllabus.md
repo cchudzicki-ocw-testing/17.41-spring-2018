@@ -53,7 +53,7 @@ Buzan, Barry, and Richard Little. _International Systems in World History: Remak
 
 We will also regularly incorporate discussion of contemporary events (and exams may reference them), so you should keep up on what is happening in the world by regularly reading a current events news source like the _[New York Times](https://www.nytimes.com/)_ or the _[Economist](https://www.economist.com/)_.
 
-For detailed information, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For detailed information, see the {{< resource_link aabd819f-a5dd-0f77-f9b2-fc63e7e64129 "Readings" >}} section.
 
 _Course Grading_
 
@@ -133,7 +133,7 @@ Final policy memo
 
 {{< tableclose >}}
 
-For more detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more detail on the activities above, see the {{< resource_link 1e8eb31a-40be-962b-52c8-d4666125ac33 "Assignments" >}} section.
 
 {{< sup "1" >}}Professor Jason Enia at Sam Houston State University defines critical thinking in the International Relations context thus:  
 “Critical thinking is not about blindly accepting the wisdom of the ‘talking heads’ you see on television or the information you get online. It is about admitting and being comfortable with uncertainty. In the complex arena of international politics—where there are almost always multiple and competing assessments of and solutions to international problems—this type of analysis is crucial. It includes the ability _to break a problem into its component parts, to question assumptions, to recognize and critically assess multiple and competing sources of information, to evaluate alternative perspectives on problems, and finally to design and evaluate solutions to those problems._ The value of the study of the social sciences lies in the development of these critical thinking skills.”
